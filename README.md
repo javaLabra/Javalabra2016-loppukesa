@@ -1,7 +1,7 @@
 # Ohjelmoinnin harjoitustyö
 * [Yleistä](ohjeet/Yleistä.md)
 * [Esimerkkejä aiheista](ohjeet/Esimerkkejä-aiheista.md)
-* [Tehtävät ja palautus](ohjeet/Tehtävät-ja-palautus.md)
+* [Tehtävät ja palautus](ohjeet/Tehtavat-ja-palautus.md)
 * [Koodin laatuvaatimukset](ohjeet/Koodin-laatuvaatimukset.md)
 * [Git-ohje](ohjeet/Git-ohje.md)
 * [Arvosteluperusteet](ohjeet/Arvosteluperusteet.md)
