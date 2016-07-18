@@ -1,6 +1,6 @@
 ﻿#Tehtävät ja palautus
 
-**Deadline on palautuksille torstaisin klo 23:59. Lopullinen palautus torstaina 23.6. klo 23:59**
+**Deadline on palautuksille torstaisin klo 23:59. Lopullinen palautus torstaina 1.9. klo 23:59**
 
 Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Javalabra2016-alkukesa).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
@@ -15,28 +15,28 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline 1, to 19.5. klo 23:59
+### Deadline 1, to 28.7. klo 23:59
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline 2, to 26.5. klo 23:59
+### Deadline 2, to 4.8. klo 23:59
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline 3, to 2.6. klo 23:59
+### Deadline 3, to 11.8. klo 23:59
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Ensimmäinen katselmointi, su 5.6. klo 23:59
+### Ensimmäinen katselmointi, su 14.8. klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline 4, to 9.6. klo 23:59
+### Deadline 4, to 18.8. klo 23:59
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline 5, to 16.6. klo 23:59
+### Deadline 5, to 25.8. klo 23:59
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Toinen katselmointi, su 19.6. klo 23:59
+### Toinen katselmointi, su 28.8. klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline 6 ja lopullinen palautus, to 23.6. klo 23:59
+### Deadline 6 ja lopullinen palautus, to 1.9. klo 23:59
 * [Deadlinen 6 vaatimukset](Deadline-6-lopullinen-palautus.md)
 
 ### Demot
