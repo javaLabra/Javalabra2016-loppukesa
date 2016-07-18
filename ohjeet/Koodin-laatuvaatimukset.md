@@ -24,7 +24,7 @@ Alla luetellaan Clean Code -periaatteita noudattavan koodin laatuvaatimukset. Oh
 * Yksi metodi - yksi pieni tehtävä. (Single Responsibility)
  * Helpottaa myös testaamista
 * Jos metodin voi jakaa useampaan metodiin, niin silloinhan se jo tekee useamman metodin hommat.
-* [Checkstyle-ohje](ohjeet/Checkstyle.md)
+* [Checkstyle-ohje](Checkstyle.md)
 
 **3. Ei copy-pastea**
 * Toistuvan koodin saa lähes aina hävitettyä
