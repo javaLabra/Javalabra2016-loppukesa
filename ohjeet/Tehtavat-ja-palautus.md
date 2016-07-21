@@ -2,7 +2,7 @@
 
 **Deadline on palautuksille torstaisin klo 23:59. Lopullinen palautus torstaina 1.9. klo 23:59**
 
-Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Javalabra2016-alkukesa).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
+Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Javalabra2016-loppukesa).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
 [Git-ohje](Git-ohje.md)
 
