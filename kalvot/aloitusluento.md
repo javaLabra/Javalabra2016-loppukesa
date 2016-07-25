@@ -1,6 +1,6 @@
 % Ohjelmoinnin harjoitustyö: Ohjelmointi (Javalabra)
 % Antti Haapaniemi; Ilmari Pohjola
-% 16.5.2016
+% 25.7.2016
 
 # Ohjaajat
 
@@ -9,7 +9,7 @@
     - Ilmari Pohjola -- **vipohjol** -- etunimi.sukunimi@helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra @ IRCnet
-- Kurssisivu https://github.com/javaLabra/Javalabra2016-alkukesa
+- Kurssisivu https://github.com/javaLabra/Javalabra2016-loppukesa
 
 # Mistä kyse?
 
@@ -74,7 +74,7 @@
 # Kurssin kulku
 
 - Jokaisen viikon torstaina **deadline** kello 23:59
-    - Deadlinestä annetaan 0-3 pistettä kunkin deadlinen tehtävien mukaisesti
+    - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
     - Ensimmäinen deadline **tämän viikon torstaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
@@ -84,11 +84,14 @@
 
 # Kurssin kulku
 
-- Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
+- Kurssin aikana tarjolla **ohjausta** eli pajaa
+    - **Ensimmäisellä kurssiviikolla ei pajaa**
+    - Toisen viikon pajat poikkeuksellisesti **linkki-luokassa** (C221)
     - Pajaa tarjolla:
-    	- **ma 11-13**
+    	- **ma 12-14**
     	- **ke 12-14**
-    - Luokassa **B221** (kakkoskerroksen pajaluokka)
+    - Luokassa **BK107** (kellarikerroksen pajaluokka)
+        
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
 
@@ -121,6 +124,6 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2016-alkukesa
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2016-loppukesa
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua ensimmäisen deadlinen tai muissa asioissa
