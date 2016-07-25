@@ -25,6 +25,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
+* (25.07.) Ensimmäinen paja pidetäänkin jo ensimmäisen viikon keskviikkona klo 12-14 luokassa C221 (linkki-luokka).
 * Aloitustilaisuus maanantaina 25.7. klo 14-16 luokassa **B119**, läsnäolo pakollinen!
 * (18.07.) Kurssisivut julki.
 
@@ -45,7 +46,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
-* Kurssin ensimmäisellä viikolla ei pajaa. Toisen viikon pajat poikkeuksellisesti linkki-luokassa (C221)
+* Ensimmäisen ja toisen viikon pajat poikkeuksellisesti linkki-luokassa (C221)
 
 * Lopullinen palautus - torstaina 1.9.2016 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
 
