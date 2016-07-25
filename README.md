@@ -36,7 +36,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **30** <br> 25.7.-31.7. | aloitustilaisuus klo 14-16 **luokassa B119** | - | - | dl1  23:59 | - | - | - |
+| **30** <br> 25.7.-31.7. | aloitustilaisuus klo 14-16 **luokassa B119** | - | paja klo 12-14 **luokassa C221** | dl1  23:59 | - | - | - |
 | **31** <br> 1.8.-7.8. | paja klo 12-14 **luokassa C221** | - | paja klo 12-14 **luokassa C221** | dl2  23:59 | - | - | - |
 | **32** <br> 8.8.-14.8.  | paja klo 12-14 | - | paja klo 12-14 | dl3  23:59 | - | - | Katselmointi1  23:59 |
 | **33** <br> 15.8.-21.8.  | paja klo 12-14 | - | paja klo 12-14 | dl4  23:59 | - | - | - |
