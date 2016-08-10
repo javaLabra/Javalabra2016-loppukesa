@@ -25,6 +25,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
+* (10.8. ) Ensimmäisen koodikatselmoinnin takarajaa muutettiin torstaiksi 18.8.!
 * (25.07.) Ensimmäinen paja pidetäänkin jo ensimmäisen viikon keskviikkona klo 12-14 luokassa C221 (linkki-luokka).
 * Aloitustilaisuus maanantaina 25.7. klo 14-16 luokassa **B119**, läsnäolo pakollinen!
 * (18.07.) Kurssisivut julki.
@@ -39,8 +40,8 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **30** <br> 25.7.-31.7. | aloitustilaisuus klo 14-16 **luokassa B119** | - | paja klo 12-14 **luokassa C221** | dl1  23:59 | - | - | - |
 | **31** <br> 1.8.-7.8. | paja klo 12-14 **luokassa C221** | - | paja klo 12-14 **luokassa C221** | dl2  23:59 | - | - | - |
-| **32** <br> 8.8.-14.8.  | paja klo 12-14 | - | paja klo 12-14 | dl3  23:59 | - | - | Katselmointi1  23:59 |
-| **33** <br> 15.8.-21.8.  | paja klo 12-14 | - | paja klo 12-14 | dl4  23:59 | - | - | - |
+| **32** <br> 8.8.-14.8.  | paja klo 12-14 | - | paja klo 12-14 | dl3  23:59 | - | - | - |
+| **33** <br> 15.8.-21.8.  | paja klo 12-14 | - | paja klo 12-14 | dl4  23:59, Katselmointi1  23:59 | - | - | - |
 | **34** <br> 22.8.-28.8. | paja klo 12-14 | - | paja klo 12-14 | dl5  23:59 | - | - | Katselmointi2  23:59 |
 | **35** <br> 29.8.-4.9. | paja klo 12-14 | - | paja klo 12-14 | dl6/lopullinen palautus  23:59 | - | - | - |
 
