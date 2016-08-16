@@ -40,7 +40,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 ### Demot
 
 * **Demotilaisuus on kaikille pakollinen**
-* Demotilaisuuden luokat ja ajankohdat ilmoitetaan myöhemmin.
+* Demojen ajankohdat: 29.8. klo 14-16 ja 30.8. klo 12-14. Ilmoittautumisen linkki löytyy sähköpostistanne.
 * Omaa työtä esitetään 3-7 min.
 * Ohjelman ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
