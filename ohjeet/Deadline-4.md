@@ -12,7 +12,6 @@
 
 ### JUnit-yksikkötestit
 * Testejä kaikille uusille luokille ja metodeille
-* Uusi pit-raportti vanhan tilalle.
 * Ohjelmalogiikan testikattavuus hyvä (rivikattavuus yli >80%, mutanteista tapettu >60%)
   * Prosenttimäärät eivät ole absoluuttisia, tarkoitus on testata kaikki mikä tuntuu mielekkäältä hyvin.
 
